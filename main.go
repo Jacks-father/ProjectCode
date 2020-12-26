@@ -8,9 +8,7 @@ import (
 
 func main() {
 	fmt.Println("hello world")
+
+	fmt.Println("练习git多人协作命令demo01")
 	beego.Run()
-	fmt.println("练习git多人协作命令demo01")
-
 }
-
-
