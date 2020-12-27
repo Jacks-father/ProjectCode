@@ -7,9 +7,8 @@ import (
 )
 
 func main() {
+	fmt.Println("mytest")
 	fmt.Println("hello world")
 	beego.Run()
 
-
-}
 
