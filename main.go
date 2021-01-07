@@ -8,7 +8,7 @@ import (
 
 func main() {
 	fmt.Println("hello world")
-	fmt.print("dsfsf")
+	fmt.Println("dsfsf")
 	beego.Run()
 }
 
